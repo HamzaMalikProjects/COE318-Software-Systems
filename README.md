@@ -3,6 +3,7 @@
 **Institution:** Toronto Metropolitan University  
 **Language:** Java  
 **Tools:** Eclipse, JUnit, Git, Command-Line, UML
+Follow Policy 60
 
 ---
 
@@ -68,4 +69,4 @@ Extended the circuit simulator to include analog behavior. Focused on abstractio
 
 ---
 **Hamza Malik**  
-Software Systems Student – Toronto Metropolitan University 
+Computer Hardware and Software Student – Toronto Metropolitan University 
