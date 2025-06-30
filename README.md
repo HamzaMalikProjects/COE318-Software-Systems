@@ -68,5 +68,5 @@ Extended the circuit simulator to include analog behavior. Focused on abstractio
 ```
 
 ---
-**Hamza Malik**  
+© 2022 **Hamza Malik**  
 Computer Hardware and Software Student – Toronto Metropolitan University 
